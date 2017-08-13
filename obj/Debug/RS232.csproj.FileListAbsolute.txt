@@ -1,0 +1,10 @@
+C:\Users\sebidev\Desktop\RS232\bin\Debug\RS232.exe
+C:\Users\sebidev\Desktop\RS232\bin\Debug\RS232.pdb
+C:\Users\sebidev\Desktop\RS232\obj\Debug\RS232.csprojResolveAssemblyReference.cache
+C:\Users\sebidev\Desktop\RS232\obj\Debug\RS232.fclsRS232Tester.resources
+C:\Users\sebidev\Desktop\RS232\obj\Debug\RS232.Properties.Resources.resources
+C:\Users\sebidev\Desktop\RS232\obj\Debug\RS232.csproj.GenerateResource.Cache
+C:\Users\sebidev\Desktop\RS232\obj\Debug\RS232.exe
+C:\Users\sebidev\Desktop\RS232\obj\Debug\RS232.pdb
+C:\Users\sebidev\Desktop\RS232\obj\Debug\RS232.InfoForm.resources
+C:\Users\sebidev\Desktop\RS232\bin\Debug\RS232.exe.config

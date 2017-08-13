@@ -1,0 +1,340 @@
+22:14:49 -- 13.08.17
+Messwert 1: 23.25 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 47.00 %
+-------------------------------
+22:15:02 -- 13.08.17
+Messwert 1: 23.06 Grad Celsius
+Messwert 2: 53.00 %
+Messwert 3: 50.00 %
+-------------------------------
+22:15:16 -- 13.08.17
+Messwert 1: 22.87 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:15:30 -- 13.08.17
+Messwert 1: 22.75 Grad Celsius
+Messwert 2: 53.00 %
+Messwert 3: 50.00 %
+-------------------------------
+22:15:43 -- 13.08.17
+Messwert 1: 22.69 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:15:57 -- 13.08.17
+Messwert 1: 22.62 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:16:10 -- 13.08.17
+Messwert 1: 22.56 Grad Celsius
+Messwert 2: 53.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:16:24 -- 13.08.17
+Messwert 1: 23.62 Grad Celsius
+Messwert 2: 53.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:16:37 -- 13.08.17
+Messwert 1: 28.94 Grad Celsius
+Messwert 2: 53.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:16:51 -- 13.08.17
+Messwert 1: 30.62 Grad Celsius
+Messwert 2: 53.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:17:05 -- 13.08.17
+Messwert 1: 31.44 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:17:18 -- 13.08.17
+Messwert 1: 31.87 Grad Celsius
+Messwert 2: 53.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:17:32 -- 13.08.17
+Messwert 1: 32.13 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:17:45 -- 13.08.17
+Messwert 1: 32.31 Grad Celsius
+Messwert 2: 53.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:17:59 -- 13.08.17
+Messwert 1: 32.50 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:18:12 -- 13.08.17
+Messwert 1: 32.69 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:18:26 -- 13.08.17
+Messwert 1: 32.81 Grad Celsius
+Messwert 2: 53.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:18:40 -- 13.08.17
+Messwert 1: 32.94 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:18:53 -- 13.08.17
+Messwert 1: 32.13 Grad Celsius
+Messwert 2: 53.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:19:07 -- 13.08.17
+Messwert 1: 31.12 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:19:20 -- 13.08.17
+Messwert 1: 30.31 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:19:34 -- 13.08.17
+Messwert 1: 29.62 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:19:48 -- 13.08.17
+Messwert 1: 29.00 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:20:01 -- 13.08.17
+Messwert 1: 28.50 Grad Celsius
+Messwert 2: 53.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:20:15 -- 13.08.17
+Messwert 1: 28.06 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:20:28 -- 13.08.17
+Messwert 1: 27.62 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:20:42 -- 13.08.17
+Messwert 1: 27.25 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:20:55 -- 13.08.17
+Messwert 1: 26.87 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:21:09 -- 13.08.17
+Messwert 1: 26.56 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:21:23 -- 13.08.17
+Messwert 1: 26.25 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:21:36 -- 13.08.17
+Messwert 1: 25.94 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:21:50 -- 13.08.17
+Messwert 1: 25.69 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:22:03 -- 13.08.17
+Messwert 1: 25.44 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:22:17 -- 13.08.17
+Messwert 1: 25.25 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:22:31 -- 13.08.17
+Messwert 1: 25.00 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:22:44 -- 13.08.17
+Messwert 1: 24.81 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:22:58 -- 13.08.17
+Messwert 1: 24.62 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:23:11 -- 13.08.17
+Messwert 1: 24.50 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:23:25 -- 13.08.17
+Messwert 1: 24.31 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:23:38 -- 13.08.17
+Messwert 1: 24.19 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:23:52 -- 13.08.17
+Messwert 1: 24.06 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:24:06 -- 13.08.17
+Messwert 1: 23.94 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:24:19 -- 13.08.17
+Messwert 1: 23.81 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:24:33 -- 13.08.17
+Messwert 1: 23.69 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:24:46 -- 13.08.17
+Messwert 1: 23.62 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:25:00 -- 13.08.17
+Messwert 1: 23.50 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:25:14 -- 13.08.17
+Messwert 1: 23.44 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:25:27 -- 13.08.17
+Messwert 1: 23.37 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:25:41 -- 13.08.17
+Messwert 1: 23.31 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:25:54 -- 13.08.17
+Messwert 1: 23.25 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:26:08 -- 13.08.17
+Messwert 1: 23.19 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:26:21 -- 13.08.17
+Messwert 1: 23.12 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:26:35 -- 13.08.17
+Messwert 1: 23.06 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:26:49 -- 13.08.17
+Messwert 1: 23.00 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:27:02 -- 13.08.17
+Messwert 1: 22.94 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:27:16 -- 13.08.17
+Messwert 1: 22.87 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:27:29 -- 13.08.17
+Messwert 1: 22.87 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:27:43 -- 13.08.17
+Messwert 1: 22.81 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:27:56 -- 13.08.17
+Messwert 1: 22.81 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:28:10 -- 13.08.17
+Messwert 1: 22.75 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:28:24 -- 13.08.17
+Messwert 1: 22.69 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:28:37 -- 13.08.17
+Messwert 1: 22.69 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:28:51 -- 13.08.17
+Messwert 1: 22.69 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 52.00 %
+-------------------------------
+22:29:04 -- 13.08.17
+Messwert 1: 22.62 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 52.00 %
+-------------------------------
+22:29:18 -- 13.08.17
+Messwert 1: 22.62 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 51.00 %
+-------------------------------
+22:29:32 -- 13.08.17
+Messwert 1: 22.56 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 52.00 %
+-------------------------------
+22:29:45 -- 13.08.17
+Messwert 1: 22.56 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 52.00 %
+-------------------------------
+22:29:59 -- 13.08.17
+Messwert 1: 22.56 Grad Celsius
+Messwert 2: 54.00 %
+Messwert 3: 52.00 %
+-------------------------------

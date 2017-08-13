@@ -1,0 +1,10 @@
+C:\Users\sebidev\Desktop\RS232\obj\Release\RS232.fclsRS232Tester.resources
+C:\Users\sebidev\Desktop\RS232\obj\Release\RS232.InfoForm.resources
+C:\Users\sebidev\Desktop\RS232\obj\Release\RS232.Properties.Resources.resources
+C:\Users\sebidev\Desktop\RS232\obj\Release\RS232.csproj.GenerateResource.Cache
+C:\Users\sebidev\Desktop\RS232\obj\Release\RS232.csprojResolveAssemblyReference.cache
+C:\Users\sebidev\Desktop\RS232\bin\Release\PC-Tool Messdatenlogger.exe.config
+C:\Users\sebidev\Desktop\RS232\bin\Release\PC-Tool Messdatenlogger.exe
+C:\Users\sebidev\Desktop\RS232\bin\Release\PC-Tool Messdatenlogger.pdb
+C:\Users\sebidev\Desktop\RS232\obj\Release\PC-Tool Messdatenlogger.exe
+C:\Users\sebidev\Desktop\RS232\obj\Release\PC-Tool Messdatenlogger.pdb
